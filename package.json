@@ -1,0 +1,25 @@
+{
+  "name": "fizzbuzzjs",
+  "version": "0.0.1",
+  "description": "Number In Words Kata for JS with tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uris77/number-in-words-kata.git"
+  },
+  "author": "Roberto Guerra",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/uris77/number-in-words-kata/issues"
+  },
+  "homepage": "https://github.com/uris77/number-in-words-kata",
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "growl": "~1.7.0",
+    "should": "~3.0.1",
+    "underscore": "~1.5.2"
+  }
+}
